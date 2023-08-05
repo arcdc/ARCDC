@@ -301,6 +301,20 @@ const playerList = [
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/4894059186/profile"
     },
+    {
+      name: "Guspenpen",
+      riskLevel: "Unknown",
+      cheats: "Unknown",
+      gamesPlayed: "Old",
+      profileLink: "https://www.roblox.com/users/296260654/profile"
+    },
+    {
+      name: "Blinking_Issues",
+      riskLevel: "Unknown",
+      cheats: "Unknown",
+      gamesPlayed: "Old",
+      profileLink: "https://www.roblox.com/users/1072841489/profile"
+    },
     // Add more player objects as needed...
   ];
   
