@@ -339,7 +339,7 @@ video::-webkit-media-controls-start-playback-button {
 .menu-container {
   position: fixed;
   top: 19px; /* Adjust this value to move it down (e.g., 10px, 20px, etc.) */
-  left: calc(100% - 240px); /* Position it to the right of the title */
+  left: calc(100% - 300px); /* Position it to the right of the title */
   background-color: #111;
   padding: 10px;
   border-radius: 4px;
