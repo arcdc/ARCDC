@@ -190,13 +190,6 @@ const playerList = [
       profileLink: "https://www.roblox.com/users/619970789/profile"
     },
     {
-      name: "cuterahaul",
-      riskLevel: "Unknown",
-      cheats: "Tier II",
-      gamesPlayed: "Old",
-      profileLink: "https://www.roblox.com/users/50354322/profile"
-    },
-    {
       name: "uni123207",
       riskLevel: "High",
       cheats: "Tier II",
@@ -322,7 +315,41 @@ const playerList = [
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/101405159/profile"
     },
-    // Add more player objects as needed...
+    {
+      name: "superman1_forever",
+      riskLevel: "Unknown",
+      cheats: "Unknown",
+      gamesPlayed: "Old",
+      profileLink: "https://www.roblox.com/users/609513151/profile"
+    },
+    {
+      name: "MicroscopicScarz",
+      riskLevel: "Unknown",
+      cheats: "Unknown",
+      gamesPlayed: "Old",
+      profileLink: "https://www.roblox.com/users/1518666355/profile"
+    },
+    {
+      name: "ColossalScarz",
+      riskLevel: "Unknown",
+      cheats: "Unknown",
+      gamesPlayed: "Old",
+      profileLink: "https://www.roblox.com/users/1863972664/profile"
+    },
+    {
+      name: "bouncydogfuneral1238",
+      riskLevel: "Unknown",
+      cheats: "Tier II",
+      gamesPlayed: "Old",
+      profileLink: "https://www.roblox.com/users/3703441450/profile"
+    },
+    {
+      name: "Phantom_Shizuku",
+      riskLevel: "Severe",
+      cheats: "Tier IV",
+      gamesPlayed: "Old",
+      profileLink: "https://www.roblox.com/users/4888824026/profile"
+    },
   ];
   
   // Function to create and populate the table
