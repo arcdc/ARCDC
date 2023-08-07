@@ -3,352 +3,320 @@ const playerList = [
     {
         name: "zombiegroan1",
         riskLevel: "Unknown",
-        cheats: "Unknown",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/1830543210/profile"
     },
     {
         name: "zombiegroan3",
         riskLevel: "Unknown",
-        cheats: "Unknown",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/1454821643/profile"
     },
     {
         name: "kingwafoko1",
         riskLevel: "Unknown",
-        cheats: "Tier I",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/1210631099/profile"
     },
     {
         name: "e0hg35n_bj0996y2",
         riskLevel: "Low",
-        cheats: "Tier I",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/3795922848/profile"
     },
     {
         name: "KaKaExplosive",
         riskLevel: "Medium",
-        cheats: "Tier II",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/1330762084/profile"
     },
     {
         name: "wearingnikeshorts",
         riskLevel: "Low",
-        cheats: "Tier I",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/4758090788/profile"
     },
     {
         name: "ScarzIsCute",
         riskLevel: "Low",
-        cheats: "Tier I",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/1633338035/profile"
     },
     {
         name: "hacxerdude6",
         riskLevel: "Low",
-        cheats: "Tier I",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/2763304874/profile"
     },
     {
         name: "BroThinksHesBatmanL",
         riskLevel: "Low",
-        cheats: "Tier I",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/4881268645/profile"
     },
     {
         name: "Driftingguy13",
         riskLevel: "Medium",
-        cheats: "Tier II",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/2267783326/profile"
     },
     {
         name: "ApocAimGod",
         riskLevel: "High",
-        cheats: "Tier III",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/4870104121/profile"
     },
     {
         name: "popsicleprincessOO",
         riskLevel: "High",
-        cheats: "Tier III",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/1432709200/profile"
     },
     {
         name: "Whodoyouknowiknowyou",
         riskLevel: "High",
-        cheats: "Tier III",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/2930921631/profile"
     },
     {
         name: "DarkyFear",
         riskLevel: "High",
-        cheats: "Tier III",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/202830362/profile"
     },
     {
         name: "aleliuj27",
         riskLevel: "High",
-        cheats: "Tier III",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/4853485259/profile"
     },
     {
         name: "ADIANCLAnNEALAND_294",
         riskLevel: "High",
-        cheats: "Tier III",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/4837379148/profile"
     },
     {
         name: "Cladman228x",
         riskLevel: "Medium",
-        cheats: "Tier II",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/4881112073/profile"
     },
     {
         name: "HereIamAgain5",
         riskLevel: "High",
-        cheats: "Tier III",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/4881252156/profile"
     },
     {
         name: "shroomdoomofloom",
         riskLevel: "Severe",
-        cheats: "Tier IV",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/4876230454/profile"
     },
     {
         name: "Banwoods",
         riskLevel: "Unknown",
-        cheats: "Unknown",
         gamesPlayed: "Unknown",
         profileLink: "https://www.roblox.com/users/1856694977/profile"
     },
     {
         name: "superdemondragon",
         riskLevel: "Severe",
-        cheats: "Tier IV",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/501653200/profile"
     },
     {
         name: "d_wkin",
         riskLevel: "Unknown",
-        cheats: "Tier II",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/95933654/profile"
     },
     {
         name: "ScadoliSmoka",
         riskLevel: "Low",
-        cheats: "Tier I",
         gamesPlayed: "Old",
         profileLink: "https://www.roblox.com/users/2375368228/profile"
     },
     {
         name: "Fireblister1234",
         riskLevel: "Unknown",
-        cheats: "Unknown",
         gamesPlayed: "New",
         profileLink: "https://www.roblox.com/users/3714614794/profile"
     },
     {
-        name: "swagster8o",
-        riskLevel: "Unknown",
-        cheats: "Tier II",
-        gamesPlayed: "Old",
-        profileLink: "https://www.roblox.com/users/1571607270/profile"
-    },
-    {
       name: "nicokvarashelia",
       riskLevel: "Medium",
-      cheats: "Tier II",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/4888737153/profile"
     },
     {
       name: "ApocMasterZ17",
       riskLevel: "Unknown",
-      cheats: "Tier III",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/619970789/profile"
     },
     {
       name: "uni123207",
       riskLevel: "High",
-      cheats: "Tier II",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/1884398612/profile"
     },
     {
       name: "noodlesndoodlesOO",
       riskLevel: "High",
-      cheats: "Tier III",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/1328398743/profile"
     },
     {
       name: "ParadiseLost95",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/1779257758/profile"
     },
     {
       name: "8BitLive",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/1767541234/profile"
     },
     {
       name: "RacoonPossum",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/1821887002/profile"
     },
     {
       name: "Apoc1_SCARL",
       riskLevel: "High",
-      cheats: "Tier III",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/4875864359/profile"
     },
     {
       name: "Relyxx",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/32905446/profile"
     },
     {
       name: "jmylguia",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/4890822331/profile"
     },
     {
       name: "XXXANUNAKI1",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/4892718880/profile"
     },
     {
       name: "XOXU101",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/4892726752/profile"
     },
     {
       name: "Apocs_F1nest",
       riskLevel: "Low",
-      cheats: "Tier I",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/4892885327/profile"
     },
     {
       name: "fgffrtfgfgfgfg",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/3979648750/profile"
     },
     {
       name: "TiberiumWolfAlt",
       riskLevel: "High",
-      cheats: "Tier III",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/4894342557/profile"
     },
     {
       name: "TiberiumWolf",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/30763488/profile"
     },
     {
       name: "therealthughunter5",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/4894059186/profile"
     },
     {
       name: "Guspenpen",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/296260654/profile"
     },
     {
       name: "Blinking_Issues",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/1072841489/profile"
     },
     {
       name: "GrabTheShotgun",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/101405159/profile"
     },
     {
       name: "superman1_forever",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/609513151/profile"
     },
     {
       name: "MicroscopicScarz",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/1518666355/profile"
     },
     {
       name: "ColossalScarz",
       riskLevel: "Unknown",
-      cheats: "Unknown",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/1863972664/profile"
     },
     {
       name: "bouncydogfuneral1238",
       riskLevel: "Unknown",
-      cheats: "Tier II",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/3703441450/profile"
     },
     {
       name: "Phantom_Shizuku",
       riskLevel: "Severe",
-      cheats: "Tier IV",
       gamesPlayed: "Old",
       profileLink: "https://www.roblox.com/users/4888824026/profile"
+    },
+    {
+      name: "neosword78",
+      riskLevel: "Medium",
+      gamesPlayed: "Old",
+      profileLink: "https://www.roblox.com/users/1132761699/profile"
+    },
+    {
+      name: "ExoticAlpha39",
+      riskLevel: "Severe",
+      gamesPlayed: "Old",
+      profileLink: "https://www.roblox.com/users/4899631895/profile"
+    },
+    {
+      name: "merlotthecat",
+      riskLevel: "Severe",
+      gamesPlayed: "Old",
+      profileLink: "https://www.roblox.com/users/1599049669/profile"
+    },
+    {
+      name: "wojanfilemonowicz11",
+      riskLevel: "Severe",
+      gamesPlayed: "Old",
+      profileLink: "https://www.roblox.com/users/1954693883/profile"
     },
   ];
   
@@ -360,7 +328,7 @@ const playerList = [
     const headerRow = header.insertRow();
   
     // Table Header
-    const headers = ["Risk", "Username", "Cheat(s)", "Game(s)", "Profile"];
+    const headers = ["Risk", "Username", "Game(s)", "Profile"];
     headers.forEach(headerText => {
       const th = document.createElement("th");
       th.textContent = headerText;
@@ -396,9 +364,6 @@ const playerList = [
   
       const nameCell = row.insertCell();
       nameCell.textContent = player.name;
-  
-      const cheatsCell = row.insertCell();
-      cheatsCell.textContent = player.cheats;
   
       const gamesCell = row.insertCell();
       gamesCell.textContent = player.gamesPlayed;
